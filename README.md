@@ -30,6 +30,8 @@ Install the Extension.
 
 # What it looks like
 
+
+
 ![This is what it looks like](https://raw.githubusercontent.com/AnishGDev/Procrastube/master/Images/blocked_content.png)
 
 
