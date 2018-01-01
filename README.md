@@ -26,5 +26,7 @@ Install the Extension.
 ![Install](https://raw.githubusercontent.com/AnishGDev/Procrastube/master/Images/Screen%20Shot%202018-01-01%20at%205.32.33%20pm.png)
 
 
-*Because of Apple's idiotic ideology of asking Safari Developers who sell their software for free to pay $99 to distribute as a package, you are forced to go through all these steps. If anyone has an Apple Developer account, feel free to package this software*
+*Because of Apple's idiotic ideology of asking Safari Developers to pay $99 to distribute their extension for free, you are forced to go through all these steps. If anyone has an Apple Developer account, feel free to package this software*
+
+Chrome and Firefox versions coming soon...
 
