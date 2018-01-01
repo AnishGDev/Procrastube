@@ -29,7 +29,7 @@ Install the Extension.
 
 **Because of *Apple's ~~idiotic~~ ideology of asking Safari Developers to pay $99* to distribute their extension for free, you are forced to go through all these steps. If anyone has an Apple Developer account, feel free to package this software**
 ```
-***You will have to re-install everytime you close Safari***
+You will have to re-install everytime you close Safari
 ```
 Chrome and Firefox versions coming soon...
 
