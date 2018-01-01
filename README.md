@@ -3,6 +3,9 @@ Block all Youtube Content except Education, Music, News &amp; Politics, and Scie
 
 # Installation
 
+**Download the contents of this repository**
+
+
 Go to the Safari Preferences. Click on Advanced. 
 
 ![Preferences Screen](https://raw.githubusercontent.com/AnishGDev/Procrastube/master/Images/Screen%20Shot%202018-01-01%20at%206.28.42%20pm.png)
