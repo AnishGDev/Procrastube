@@ -34,5 +34,5 @@ Install the Extension.
 
 *You will have to re-install everytime you close Safari*
 
-Chrome and Firefox versions coming soon...(Those will be fully packaged since Google and Mozilla don't feel the need to charge their customers $99 to create a simple extension) 
+Chrome and Firefox versions coming soon...(These will be fully packaged since Google and Mozilla don't feel the need to charge their customers $99 to create a simple extension. Minimal Installation.) 
 
