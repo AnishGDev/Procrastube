@@ -15,6 +15,3 @@ Install by opening the .safariextz file. Thanks to @ayazhafiz for providing the 
 
 
 
-
-
-Chrome and Firefox versions coming soon...
